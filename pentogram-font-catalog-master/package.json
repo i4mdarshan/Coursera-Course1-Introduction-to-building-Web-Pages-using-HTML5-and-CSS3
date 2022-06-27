@@ -1,0 +1,20 @@
+{
+  "name": "font-list-html-mastery-solution",
+  "version": "1.0.0",
+  "description": "Solution to the Font List Challenge of the Mastery Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.stackroute.in:gps-frontend-workspace/coding-solutions/Font-List-HTML-Mastery-Solution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "html-validator": "^5.1.17",
+    "jest": "^26.6.3",
+    "jsdom": "^16.5.0"
+  }
+}

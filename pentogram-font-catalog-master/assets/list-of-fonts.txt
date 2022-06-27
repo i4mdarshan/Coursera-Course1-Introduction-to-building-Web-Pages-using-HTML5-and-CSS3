@@ -1,0 +1,368 @@
+Open Sans
+Roboto
+Yusei Magic
+Potta One
+Noto Sans JP
+Lato
+Fraunces
+Montserrat
+Roboto Condensed
+Imbue
+Source Sans Pro
+Oswald
+Roboto Mono
+Hachi Maru Pop
+Raleway
+PT Sans
+Bodoni Moda
+Ubuntu
+Roboto Slab
+Merriweather
+Playfair Display
+Nunito
+Lora
+PT Serif
+Rubik
+Noto Sans KR
+Noto Serif
+Hind Siliguri
+Work Sans
+Nanum Gothic
+Fira Sans
+Noto Sans TC
+Nunito Sans
+Quicksand
+Titillium Web
+Chakra Petch
+Karla
+Heebo
+Barlow
+Oxygen
+PT Sans Narrow
+Arimo
+Inter
+Josefin Sans
+Dosis
+Syne
+Anton
+Libre Franklin
+Libre Baskerville
+Inconsolata
+Cabin
+Crimson Text
+Yanone Kaffeesatz
+Bitter
+Slabo 27px
+Lobster
+Noto Sans SC
+Gorditas
+Source Code Pro
+Dancing Script
+Fjalla One
+IBM Plex Sans
+Abel
+Varela Round
+Source Serif Pro
+Catamaran
+Comfortaa
+Barlow Condensed
+Zilla Slab
+Cairo
+Asap
+Pacifico
+Antic Slab
+Maven Pro
+Hind Madurai
+Abril Fatface
+Shadows Into Light
+Archivo Narrow
+Arvo
+Staatliches
+Play
+Indie Flower
+Exo 2
+EB Garamond
+Kanit
+Merriweather Sans
+Balsamiq Sans
+Noto Sans HK
+Questrial
+Overpass
+Prompt
+DM Sans
+Bebas Neue
+Assistant
+Acme
+Mukta Vaani
+Amatic SC
+Permanent Marker
+IBM Plex Serif
+Padauk
+Domine
+Fira Sans Condensed
+Architects Daughter
+Caveat
+Tajawal
+Cormorant Garamond
+Cantarell
+Signika
+Alfa Slab One
+Noto Serif JP
+Bree Serif
+Exo
+Satisfy
+Hanalei
+Fredoka One
+Righteous
+Saira Condensed
+Archivo
+Amiri
+Nanum Myeongjo
+PT Sans Caption
+Cinzel
+Vollkorn
+Monda
+Patua One
+Courgette
+Barlow Semi Condensed
+Crete Round
+Mulish
+Spartan
+JetBrains Mono
+Ubuntu Condensed
+M PLUS Rounded 1c
+Frank Ruhl Libre
+Alegreya Sans
+ABeeZee
+Lobster Two
+Francois One
+Carter One
+Archivo Black
+M PLUS 1p
+Patrick Hand
+Tinos
+Kaushan Script
+Cardo
+Alegreya
+Great Vibes
+Concert One
+Rokkitt
+Cuprum
+Russo One
+Pathway Gothic One
+Gloria Hallelujah
+Sacramento
+Didact Gothic
+IBM Plex Mono
+Noticia Text
+Prata
+Old Standard TT
+Orbitron
+Quattrocento Sans
+Chivo
+Passion One
+Encode Sans
+Sarabun
+Manrope
+Ultra
+Secular One
+Volkhov
+Hind Guntur
+Asap Condensed
+Playfair Display SC
+News Cycle
+Ramabhadra
+Changa
+Montserrat Alternates
+Josefin Slab
+Squada One
+Yellowtail
+Cookie
+Sawarabi Mincho
+Special Elite
+Ropa Sans
+Parisienne
+Sigmar One
+Quattrocento
+Fira Sans Extra Condensed
+Press Start 2P
+Philosopher
+Cormorant
+Arapey
+Andika New Basic
+Hind Vadodara
+Saira
+Poiret One
+Spectral
+Noto Serif TC
+Hammersmith One
+Vidaloka
+Handlee
+Sanchez
+Advent Pro
+Overlock
+Bangers
+Public Sans
+Neuton
+Istok Web
+DM Serif Display
+Taviraj
+Original Surfer
+Jura
+Jost
+Texturina
+Neucha
+Ruda
+Merienda
+Luckiest Guy
+Unica One
+Economica
+Monoton
+Damion
+Space Mono
+Gudea
+Faustina
+Red Hat Display
+Cabin Condensed
+Gothic A1
+Yeseva One
+BenchNine
+Gentium Basic
+Alice
+Tangerine
+Pontano Sans
+Viga
+Sawarabi Gothic
+Unna
+Varela
+Homemade Apple
+Julius Sans One
+Armata
+El Messiri
+Suez One
+Gruppo
+Adamina
+Saira Semi Condensed
+Sofia
+Actor
+Amaranth
+Itim
+Rock Salt
+Quantico
+Alef
+Bad Script
+Aleo
+Gentium Book Basic
+Allan
+Playball
+Marck Script
+Nerko One
+Antic
+Markazi Text
+Paytone One
+Castoro
+Lusitana
+Tenor Sans
+PT Mono
+Bungee
+Allura
+Audiowide
+Gochi Hand
+Electrolize
+Noto Serif SC
+Sorts Mill Goudy
+Mitr
+Marcellus
+Fugaz One
+Mali
+Black Ops One
+Nothing You Could Do
+Signika Negative
+Cantata One
+Baloo Chettan 2
+Nanum Gothic Coding
+Abhaya Libre
+Alex Brush
+Encode Sans Condensed
+Lateef
+Gelasio
+Nanum Pen Script
+Big Shoulders Stencil Text
+Big Shoulders Inline Text
+Big Shoulders Stencil Display
+Big Shoulders Inline Display
+Ubuntu Mono
+Bai Jamjuree
+Average
+Aclonica
+Shadows Into Light Two
+Oleo Script
+Rufina
+Krub
+Arsenal
+Pridi
+Sintony
+Libre Barcode EAN13 Text
+Lilita One
+Cutive Mono
+Lalezar
+Mr Dafoe
+Covered By Your Grace
+Pinyon Script
+Alata
+Kosugi Maru
+Chewy
+Crimson Pro
+Coda
+Reem Kufi
+DM Serif Text
+Niconne
+Averia Serif Libre
+Rancho
+Mada
+Yrsa
+Italianno
+Syncopate
+Space Grotesk
+Schoolbell
+Share Tech Mono
+Boogaloo
+Alegreya Sans SC
+PT Serif Caption
+Saira Extra Condensed
+Forum
+Kreon
+Annie Use Your Telescope
+Sriracha
+Arbutus Slab
+Basic
+Capriola
+Fredericka the Great
+Allerta
+
+Poppins
+Noto Sans
+Mukta
+Teko
+Hind
+Rajdhani
+Martel
+Yantramanav
+Kalam
+Baloo 2
+Pragati Narrow
+Karma
+Khand
+Jaldi
+Khula
+Palanquin
+Rhodium Libre
+Sarala
+Laila
+Glegoo
+Eczar
+Martel Sans
+
+Almarai
+
+**There are two fonts removed Coda Caption and Open Sans Condensed
