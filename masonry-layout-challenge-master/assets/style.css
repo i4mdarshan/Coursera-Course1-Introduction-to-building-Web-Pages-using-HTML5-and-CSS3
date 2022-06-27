@@ -1,0 +1,35 @@
+body{
+    background-color: #cb4154;
+}
+
+.layout{
+        display: grid;
+        gap: 10px;
+        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+        grid-template-rows: masonry;
+}
+
+.block{
+    background-color: #3d1e37;
+}
+
+.block-1{
+    height: 59px;
+}
+
+.block-2{
+    height: 143px;
+}
+
+
+.block-3{
+    height: 157px;
+}
+
+.block-4{
+    height: 140px;
+}
+
+.block-5{
+    height: 110px;
+}
