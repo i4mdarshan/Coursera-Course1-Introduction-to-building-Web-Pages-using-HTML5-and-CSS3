@@ -1,0 +1,20 @@
+{
+    "name": "samanderson-portfolio-mastery-solution",
+    "version": "1.0.0",
+    "description": "Solution for Mastery challenge for CSS box model with test cases",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.stackroute.in/gps-frontend-workspace/coding-solutions/SamAnderson-Portfolio-Mastery-Solution.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "html-validator": "^5.1.17",
+        "jest": "^26.6.3",
+        "jsdom": "^16.5.0"
+    }
+}
