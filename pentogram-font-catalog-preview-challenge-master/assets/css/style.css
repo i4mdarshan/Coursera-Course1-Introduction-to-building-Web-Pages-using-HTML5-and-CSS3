@@ -1,0 +1,14 @@
+body {
+    color: white; 
+    background-color: #262626; 
+    text-align: center;
+}
+
+.font-types a{
+    text-decoration: none;
+    color: white;
+}
+
+ul {
+    list-style: none;
+}
