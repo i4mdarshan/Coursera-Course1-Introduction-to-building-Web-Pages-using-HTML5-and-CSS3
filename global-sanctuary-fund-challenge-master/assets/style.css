@@ -1,0 +1,85 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    padding: 5px 2px 2px 2px;
+    border-radius: 15px;
+}
+
+.nav-brand{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float: left;
+    margin-left: 50px;
+}
+
+.nav-items-list{
+    display: flex;
+    justify-content:end;
+    list-style-type: none;
+    margin-right: 30px;
+    padding-top: 5px;
+
+}
+
+.nav-item{
+    margin: 0px 40px 0px 10px;
+    justify-items: right;
+}
+
+.nav-item a{
+    color: white;
+    text-decoration: none;
+    padding-bottom: 5px;
+}
+
+.nav-item a:hover{
+    border-bottom: 2px solid white;
+    border-width: 100%;
+}
+
+.nav-contact-us-button{
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: -10px;
+    padding: 10px;   
+    background-color: white;
+    border-radius: 10px;
+}
+.nav-item button:hover{
+    cursor: pointer;
+    background-color: gainsboro;
+}
+
+.navbar-2, .navbar-3 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;
+    background:#6cf;
+    text-align: center;
+}
+
+.footer-text{
+    display: inline-flex;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.copyright-text{
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}

@@ -1,0 +1,20 @@
+{
+    "name": "global-sanctuary-fund-mastery-solution",
+    "version": "1.0.0",
+    "description": "solution got GSF mastery challenge with test cases",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.stackroute.in/gps-frontend-workspace/coding-solutions/Global-Sanctuary-Fund-Mastery-Solution.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "html-validator": "^5.1.17",
+        "jest": "^26.6.3",
+        "jsdom": "^16.5.0"
+    }
+}
